@@ -1,0 +1,355 @@
+2026-03-10 23:16:48 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-10 23:16:48 [INFO] Tracking Control Center started.
+2026-03-10 23:17:23 [INFO] Registered: DEV-0001 — Field Unit Alpha (FIELD_UNIT)
+2026-03-10 23:18:24 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-10 23:18:24 [INFO] Travel plan assigned to DEV-0001: 3 waypoints.
+2026-03-10 23:19:33 [INFO] New connection from ('127.0.0.1', 2640)
+2026-03-10 23:19:33 [INFO] Device registered: DEV-0001 (Alpha / UAV)
+2026-03-10 23:19:33 [INFO] Travel plan sent to DEV-0001
+2026-03-10 23:19:34 [INFO] New connection from ('127.0.0.1', 2641)
+2026-03-10 23:19:34 [INFO] Device registered: DEV-0002 (Bravo / GROUND_VEHICLE)
+2026-03-10 23:19:34 [INFO] New connection from ('127.0.0.1', 2642)
+2026-03-10 23:19:34 [INFO] Device registered: DEV-0003 (Charlie / SENSOR_NODE)
+2026-03-10 23:19:35 [WARNING] DEVIATION ALERT: DEV-0001 is 4.84 units off-route at (5.6, 2.8)
+2026-03-10 23:19:36 [DEBUG] Telemetry OK: DEV-0002 pos=(45.9,3.3) dev=0.00
+2026-03-10 23:19:36 [DEBUG] Telemetry OK: DEV-0003 pos=(25.0,4.2) dev=0.00
+2026-03-10 23:19:37 [DEBUG] Telemetry OK: DEV-0001 pos=(10.6,5.6) dev=0.00
+2026-03-10 23:19:38 [DEBUG] Telemetry OK: DEV-0002 pos=(42.0,6.4) dev=0.00
+2026-03-10 23:19:38 [DEBUG] Telemetry OK: DEV-0003 pos=(25.0,8.2) dev=0.00
+2026-03-10 23:19:39 [DEBUG] Telemetry OK: DEV-0001 pos=(14.9,9.9) dev=0.00
+2026-03-10 23:19:40 [DEBUG] Telemetry OK: DEV-0002 pos=(37.9,8.8) dev=0.00
+2026-03-10 23:19:40 [DEBUG] Telemetry OK: DEV-0003 pos=(23.6,11.4) dev=0.00
+2026-03-10 23:19:41 [DEBUG] Telemetry OK: DEV-0001 pos=(19.0,14.0) dev=0.00
+2026-03-10 23:19:42 [DEBUG] Telemetry OK: DEV-0002 pos=(33.3,10.7) dev=0.00
+2026-03-10 23:19:42 [DEBUG] Telemetry OK: DEV-0003 pos=(20.8,14.2) dev=0.00
+2026-03-10 23:19:43 [DEBUG] Telemetry OK: DEV-0001 pos=(23.2,18.2) dev=0.00
+2026-03-10 23:19:44 [DEBUG] Telemetry OK: DEV-0002 pos=(28.9,12.6) dev=0.00
+2026-03-10 23:19:44 [DEBUG] Telemetry OK: DEV-0003 pos=(17.9,17.1) dev=0.00
+2026-03-10 23:19:45 [DEBUG] Telemetry OK: DEV-0001 pos=(25.0,20.0) dev=0.00
+2026-03-10 23:19:45 [ERROR] Error handling ('127.0.0.1', 2640): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-10 23:19:45 [INFO] Device DEV-0001 is now OFFLINE.
+2026-03-10 23:19:46 [DEBUG] Telemetry OK: DEV-0002 pos=(24.6,15.2) dev=0.00
+2026-03-10 23:19:47 [DEBUG] Telemetry OK: DEV-0003 pos=(15.1,19.9) dev=0.00
+2026-03-10 23:19:48 [DEBUG] Telemetry OK: DEV-0002 pos=(20.4,17.8) dev=0.00
+2026-03-10 23:19:49 [DEBUG] Telemetry OK: DEV-0003 pos=(13.3,23.4) dev=0.00
+2026-03-10 23:19:50 [DEBUG] Telemetry OK: DEV-0002 pos=(16.3,20.6) dev=0.00
+2026-03-10 23:19:51 [DEBUG] Telemetry OK: DEV-0003 pos=(11.5,27.0) dev=0.00
+2026-03-10 23:19:52 [DEBUG] Telemetry OK: DEV-0002 pos=(12.2,23.4) dev=0.00
+2026-03-10 23:19:53 [DEBUG] Telemetry OK: DEV-0003 pos=(9.7,30.5) dev=0.00
+2026-03-10 23:19:53 [DEBUG] Telemetry OK: DEV-0002 pos=(10.0,25.0) dev=0.00
+2026-03-10 23:19:53 [INFO] Device DEV-0002 disconnected.
+2026-03-10 23:19:53 [INFO] Device DEV-0002 is now OFFLINE.
+2026-03-10 23:19:55 [DEBUG] Telemetry OK: DEV-0003 pos=(7.9,34.1) dev=0.00
+2026-03-10 23:19:57 [DEBUG] Telemetry OK: DEV-0003 pos=(6.2,37.7) dev=0.00
+2026-03-10 23:19:58 [DEBUG] Telemetry OK: DEV-0003 pos=(5.0,40.0) dev=0.00
+2026-03-10 23:19:58 [INFO] Device DEV-0003 disconnected.
+2026-03-10 23:19:58 [INFO] Device DEV-0003 is now OFFLINE.
+2026-03-10 23:20:53 [INFO] TCP server stopped.
+2026-03-10 23:20:56 [INFO] TCP server stopped.
+2026-03-10 23:23:55 [INFO] Registered: DEV-0004 — Field Unit Alpha (FIELD_UNIT)
+2026-03-10 23:23:56 [INFO] Registered: DEV-0005 — Field Unit Alpha (FIELD_UNIT)
+2026-03-10 23:23:57 [INFO] Registered: DEV-0006 — Field Unit Alpha (FIELD_UNIT)
+2026-03-10 23:23:59 [INFO] Registered: DEV-0007 — Field Unit Alpha (FIELD_UNIT)
+2026-03-10 23:24:39 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-10 23:24:39 [INFO] Tracking Control Center started.
+2026-03-10 23:25:25 [INFO] Registered: DEV-0001 — TOYOTA (GROUND_VEHICLE)
+2026-03-10 23:25:59 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-10 23:25:59 [INFO] Travel plan assigned to DEV-0001: 3 waypoints.
+2026-03-10 23:30:54 [INFO] New connection from ('127.0.0.1', 2522)
+2026-03-10 23:30:54 [INFO] Device registered: DEV-0001 (TOYOTA / GROUND_VEHICLE)
+2026-03-10 23:30:54 [INFO] Travel plan sent to DEV-0001
+2026-03-10 23:30:56 [DEBUG] Telemetry OK: DEV-0001 pos=(5.6,2.8) dev=0.00
+2026-03-10 23:30:59 [DEBUG] Telemetry OK: DEV-0001 pos=(10.6,5.6) dev=0.00
+2026-03-10 23:31:01 [DEBUG] Telemetry OK: DEV-0001 pos=(14.9,9.9) dev=0.00
+2026-03-10 23:31:03 [DEBUG] Telemetry OK: DEV-0001 pos=(19.0,14.0) dev=0.00
+2026-03-10 23:31:05 [DEBUG] Telemetry OK: DEV-0001 pos=(23.2,18.2) dev=0.00
+2026-03-10 23:31:06 [DEBUG] Telemetry OK: DEV-0001 pos=(25.0,20.0) dev=0.00
+2026-03-10 23:31:06 [ERROR] Error handling ('127.0.0.1', 2522): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-10 23:31:06 [INFO] Device DEV-0001 is now OFFLINE.
+2026-03-10 23:38:43 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-10 23:38:43 [INFO] Tracking Control Center started.
+2026-03-10 23:39:23 [INFO] Registered: DEV-0001 — TOYOTA (GROUND_VEHICLE)
+2026-03-10 23:39:37 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-10 23:39:37 [INFO] Travel plan assigned to DEV-0001: 3 waypoints.
+2026-03-10 23:40:04 [INFO] New connection from ('127.0.0.1', 12027)
+2026-03-10 23:40:04 [INFO] Device registered: DEV-0001 (TOYOTA / GROUND_VEHICLE)
+2026-03-10 23:40:04 [INFO] Travel plan sent to DEV-0001
+2026-03-10 23:40:06 [DEBUG] Telemetry OK: DEV-0001 pos=(5.6,2.8) dev=0.00
+2026-03-10 23:40:08 [DEBUG] Telemetry OK: DEV-0001 pos=(10.6,5.6) dev=0.00
+2026-03-10 23:40:10 [DEBUG] Telemetry OK: DEV-0001 pos=(14.9,9.9) dev=0.00
+2026-03-10 23:40:12 [DEBUG] Telemetry OK: DEV-0001 pos=(19.0,14.0) dev=0.00
+2026-03-10 23:40:14 [DEBUG] Telemetry OK: DEV-0001 pos=(23.2,18.2) dev=0.00
+2026-03-10 23:40:15 [DEBUG] Telemetry OK: DEV-0001 pos=(25.0,20.0) dev=0.00
+2026-03-10 23:40:15 [INFO] ARRIVED: DEV-0001 [TOYOTA] reached planned destination (25.0,20.0)
+2026-03-10 23:40:15 [ERROR] Error handling ('127.0.0.1', 12027): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-10 23:40:15 [INFO] Device DEV-0001 is now OFFLINE.
+2026-03-10 23:45:46 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-10 23:45:46 [INFO] Tracking Control Center started.
+2026-03-10 23:46:05 [INFO] Registered: DEV-0001 — TOYOTA (GROUND_VEHICLE)
+2026-03-10 23:46:08 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-10 23:46:08 [INFO] Travel plan assigned to DEV-0001: 3 waypoints.
+2026-03-10 23:46:48 [INFO] New connection from ('127.0.0.1', 1846)
+2026-03-10 23:46:48 [INFO] Device registered: DEV-0001 (TOYOTA / GROUND_VEHICLE)
+2026-03-10 23:46:48 [INFO] Travel plan sent to DEV-0001
+2026-03-10 23:46:50 [DEBUG] Telemetry OK: DEV-0001 pos=(5.6,2.8) dev=0.00
+2026-03-10 23:46:52 [DEBUG] Telemetry OK: DEV-0001 pos=(10.6,5.6) dev=0.00
+2026-03-10 23:46:54 [DEBUG] Telemetry OK: DEV-0001 pos=(14.9,9.9) dev=0.00
+2026-03-10 23:46:56 [DEBUG] Telemetry OK: DEV-0001 pos=(19.0,14.0) dev=0.00
+2026-03-10 23:46:58 [WARNING] DESTINATION CHANGE ALERT: DEV-0001 [TOYOTA] destination changed (25.0,20.0) -> (45.0,45.0)
+2026-03-10 23:49:39 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-10 23:49:39 [INFO] Tracking Control Center started.
+2026-03-10 23:50:12 [INFO] Registered: DEV-0001 — TOYOTA (GROUND_VEHICLE)
+2026-03-10 23:50:21 [INFO] Registered: DEV-0002 — TOYOTA (GROUND_VEHICLE)
+2026-03-10 23:50:59 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-10 23:50:59 [INFO] Travel plan assigned to DEV-0001: 3 waypoints.
+2026-03-10 23:51:38 [INFO] New connection from ('127.0.0.1', 2835)
+2026-03-10 23:51:38 [INFO] Device registered: DEV-0001 (TOYOTA / GROUND_VEHICLE)
+2026-03-10 23:51:38 [INFO] Travel plan sent to DEV-0001
+2026-03-10 23:51:40 [DEBUG] Telemetry OK: DEV-0001 pos=(5.6,2.8) dev=0.00
+2026-03-10 23:51:42 [DEBUG] Telemetry OK: DEV-0001 pos=(10.6,5.6) dev=0.00
+2026-03-10 23:51:44 [DEBUG] Telemetry OK: DEV-0001 pos=(14.9,9.9) dev=0.00
+2026-03-10 23:51:46 [DEBUG] Telemetry OK: DEV-0001 pos=(19.0,14.0) dev=0.00
+2026-03-10 23:51:48 [WARNING] DESTINATION CHANGE ALERT: DEV-0001 [TOYOTA] destination changed (25.0,20.0) -> (45.0,45.0)
+2026-03-10 23:59:46 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-10 23:59:46 [INFO] Tracking Control Center started.
+2026-03-11 00:00:01 [INFO] Registered: DEV-0001 — TOYOTA (GROUND_VEHICLE)
+2026-03-11 00:01:08 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 00:01:08 [INFO] Travel plan assigned to DEV-0001: 3 waypoints.
+2026-03-11 00:01:51 [INFO] New connection from ('127.0.0.1', 14571)
+2026-03-11 00:01:51 [INFO] Device registered: DEV-0001 (TOYOTA / GROUND_VEHICLE)
+2026-03-11 00:01:51 [INFO] Travel plan sent to DEV-0001
+2026-03-11 00:01:53 [DEBUG] Telemetry OK: DEV-0001 pos=(5.6,2.8) dev=0.00
+2026-03-11 00:01:55 [DEBUG] Telemetry OK: DEV-0001 pos=(10.6,5.6) dev=0.00
+2026-03-11 00:01:57 [DEBUG] Telemetry OK: DEV-0001 pos=(14.9,9.9) dev=0.00
+2026-03-11 00:01:59 [DEBUG] Telemetry OK: DEV-0001 pos=(19.0,14.0) dev=0.00
+2026-03-11 00:02:01 [WARNING] DESTINATION CHANGE ALERT: DEV-0001 [TOYOTA] destination changed (6.0,20.0) -> (45.0,45.0)
+2026-03-11 00:02:01 [WARNING] DEVIATION ALERT: DEV-0001 is 3.79 units off-route at (16.3, 16.6)
+2026-03-11 00:02:03 [WARNING] DEVIATION ALERT: DEV-0001 is 3.33 units off-route at (20.5, 20.8)
+2026-03-11 00:02:05 [DEBUG] Telemetry OK: DEV-0001 pos=(24.8,25.1) dev=2.75
+2026-03-11 00:02:07 [DEBUG] Telemetry OK: DEV-0001 pos=(29.1,29.3) dev=2.17
+2026-03-11 00:02:09 [DEBUG] Telemetry OK: DEV-0001 pos=(33.3,33.5) dev=1.59
+2026-03-11 00:02:11 [DEBUG] Telemetry OK: DEV-0001 pos=(37.6,37.7) dev=1.01
+2026-03-11 00:02:13 [DEBUG] Telemetry OK: DEV-0001 pos=(41.9,41.9) dev=0.43
+2026-03-11 00:02:15 [DEBUG] Telemetry OK: DEV-0001 pos=(45.0,45.0) dev=0.00
+2026-03-11 00:02:15 [INFO] ARRIVED: DEV-0001 [TOYOTA] reached planned destination (45.0,45.0)
+2026-03-11 00:02:15 [ERROR] Error handling ('127.0.0.1', 14571): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-11 00:02:15 [INFO] Device DEV-0001 is now OFFLINE.
+2026-03-11 00:09:16 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 00:09:16 [INFO] Tracking Control Center started. Server listening on 127.0.0.1:9000
+2026-03-11 00:10:13 [INFO] Registered: DEV-0001  |  TOYOTA  |  GROUND_VEHICLE  |  start=(0.0,0.0)
+2026-03-11 00:10:38 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 00:10:38 [INFO] Plan assigned to DEV-0001  |  start=(0.0, 0.0)  waypoints=[(10.0,5.0) → (20.0,10.0) → (30.0,15.0)]  dest=(40.0, 30.0)  speed=4.0  interval=3.5s
+2026-03-11 00:10:38 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 00:10:38 [INFO] Plan assigned to DEV-0001  |  start=(0.0, 0.0)  waypoints=[(10.0,5.0) → (20.0,10.0) → (30.0,15.0)]  dest=(40.0, 30.0)  speed=4.0  interval=3.5s
+2026-03-11 00:11:23 [INFO] New connection from ('127.0.0.1', 12912)
+2026-03-11 00:11:23 [INFO] Device registered: DEV-0001 (TOYOTA / GROUND_VEHICLE)
+2026-03-11 00:11:23 [INFO] Travel plan sent to DEV-0001
+2026-03-11 00:11:27 [DEBUG] Telemetry OK: DEV-0001 pos=(12.9,6.4) dev=0.00
+2026-03-11 00:11:30 [DEBUG] Telemetry OK: DEV-0001 pos=(25.4,12.7) dev=0.00
+2026-03-11 00:11:34 [WARNING] DESTINATION CHANGE ALERT: DEV-0001 [TOYOTA] destination changed (40.0,30.0) -> (45.0,45.0)
+2026-03-11 00:11:34 [DEBUG] Telemetry OK: DEV-0001 pos=(34.6,22.5) dev=0.72
+2026-03-11 00:11:37 [DEBUG] Telemetry OK: DEV-0001 pos=(40.5,35.2) dev=0.32
+2026-03-11 00:11:40 [DEBUG] Telemetry OK: DEV-0001 pos=(45.0,45.0) dev=0.00
+2026-03-11 00:11:40 [INFO] ARRIVED: DEV-0001 [TOYOTA] reached planned destination (45.0,45.0)
+2026-03-11 00:11:40 [ERROR] Error handling ('127.0.0.1', 12912): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-11 00:11:40 [INFO] Device DEV-0001 is now OFFLINE.
+2026-03-11 00:12:10 [INFO] New connection from ('127.0.0.1', 12938)
+2026-03-11 00:12:10 [INFO] Device registered: DEV-0001 (TOYOTA / GROUND_VEHICLE)
+2026-03-11 00:12:10 [INFO] Travel plan sent to DEV-0001
+2026-03-11 00:12:14 [DEBUG] Telemetry OK: DEV-0001 pos=(12.9,6.4) dev=0.00
+2026-03-11 00:12:17 [DEBUG] Telemetry OK: DEV-0001 pos=(25.4,12.7) dev=0.00
+2026-03-11 00:12:21 [DEBUG] Telemetry OK: DEV-0001 pos=(33.9,22.9) dev=0.00
+2026-03-11 00:12:24 [DEBUG] Telemetry OK: DEV-0001 pos=(40.2,35.4) dev=0.00
+2026-03-11 00:12:27 [DEBUG] Telemetry OK: DEV-0001 pos=(45.0,45.0) dev=0.00
+2026-03-11 00:12:27 [INFO] ARRIVED: DEV-0001 [TOYOTA] reached planned destination (45.0,45.0)
+2026-03-11 00:12:27 [ERROR] Error handling ('127.0.0.1', 12938): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-11 00:12:27 [INFO] Device DEV-0001 is now OFFLINE.
+2026-03-11 00:14:04 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 00:14:04 [INFO] Tracking Control Center started. Server listening on 127.0.0.1:9000
+2026-03-11 00:15:42 [INFO] New connection from ('127.0.0.1', 13055)
+2026-03-11 00:15:42 [INFO] Device registered: DEV-0001 (TOYOTA / GROUND_VEHICLE)
+2026-03-11 00:16:07 [INFO] Registered: DEV-0002  |  TOYOTA  |  GROUND_VEHICLE  |  start=(0.0,0.0)
+2026-03-11 00:16:13 [WARNING] Cannot push plan to DEV-0002: not connected.
+2026-03-11 00:16:13 [INFO] Plan assigned to DEV-0002  |  start=(0.0, 0.0)  waypoints=[(10.0,5.0) → (20.0,10.0) → (30.0,15.0)]  dest=(40.0, 30.0)  speed=5.0  interval=2.0s
+2026-03-11 00:16:45 [ERROR] Error handling ('127.0.0.1', 13055): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-11 00:16:45 [INFO] Device DEV-0001 is now OFFLINE.
+2026-03-11 00:17:19 [INFO] New connection from ('127.0.0.1', 7465)
+2026-03-11 00:17:19 [INFO] Device registered: DEV-0001 (TOYOTA / GROUND_VEHICLE)
+2026-03-11 00:18:58 [INFO] TCP server stopped.
+2026-03-11 00:19:19 [INFO] Device DEV-0001 disconnected.
+2026-03-11 00:19:19 [INFO] Device DEV-0001 is now OFFLINE.
+2026-03-11 00:19:20 [INFO] Registered: DEV-0003  |  TOYOTA  |  GROUND_VEHICLE  |  start=(6.0,2.0)
+2026-03-11 00:19:56 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 00:19:56 [INFO] Tracking Control Center started. Server listening on 127.0.0.1:9000
+2026-03-11 00:20:34 [INFO] New connection from ('127.0.0.1', 7574)
+2026-03-11 00:20:34 [INFO] Device registered: DEV-0001 (TOYOTA / GROUND_VEHICLE)
+2026-03-11 00:20:37 [WARNING] No device selected for travel plan.
+2026-03-11 00:21:08 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 00:21:08 [INFO] Tracking Control Center started. Server listening on 127.0.0.1:9000
+2026-03-11 00:21:44 [INFO] Registered: DEV-0001  |  TOYOTA  |  GROUND_VEHICLE  |  start=(4.0,0.0)
+2026-03-11 00:22:00 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 00:22:00 [INFO] Plan assigned to DEV-0001  |  start=(4.0, 0.0)  waypoints=[(10.0,5.0) → (20.0,10.0) → (30.0,15.0)]  dest=(62.0, 30.0)  speed=2.5  interval=2.0s
+2026-03-11 00:22:18 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 00:22:18 [INFO] Plan assigned to DEV-0001  |  start=(4.0, 0.0)  waypoints=[(10.0,5.0) → (20.0,10.0) → (30.0,15.0)]  dest=(52.0, 30.0)  speed=2.5  interval=2.0s
+2026-03-11 00:22:21 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 00:22:21 [INFO] Plan assigned to DEV-0001  |  start=(4.0, 0.0)  waypoints=[(10.0,5.0) → (20.0,10.0) → (30.0,15.0)]  dest=(50.0, 30.0)  speed=2.5  interval=2.0s
+2026-03-11 00:23:55 [INFO] New connection from ('127.0.0.1', 7808)
+2026-03-11 00:23:55 [INFO] Device registered: DEV-0001 (TOYOTA / GROUND_VEHICLE)
+2026-03-11 00:23:55 [INFO] Travel plan sent to DEV-0001
+2026-03-11 00:23:57 [DEBUG] Telemetry OK: DEV-0001 pos=(8.0,3.4) dev=0.00
+2026-03-11 00:23:59 [DEBUG] Telemetry OK: DEV-0001 pos=(12.0,6.0) dev=0.00
+2026-03-11 00:24:01 [DEBUG] Telemetry OK: DEV-0001 pos=(16.5,8.2) dev=0.00
+2026-03-11 00:24:03 [DEBUG] Telemetry OK: DEV-0001 pos=(20.9,10.4) dev=0.00
+2026-03-11 00:24:05 [WARNING] DESTINATION CHANGE ALERT: DEV-0001 [TOYOTA] destination changed (50.0,30.0) -> (45.0,45.0)
+2026-03-11 00:24:05 [DEBUG] Telemetry OK: DEV-0001 pos=(30.3,17.8) dev=1.01
+2026-03-11 00:24:07 [DEBUG] Telemetry OK: DEV-0001 pos=(32.6,22.2) dev=0.85
+2026-03-11 00:24:09 [DEBUG] Telemetry OK: DEV-0001 pos=(35.0,26.6) dev=0.69
+2026-03-11 00:24:11 [DEBUG] Telemetry OK: DEV-0001 pos=(37.4,31.0) dev=0.52
+2026-03-11 00:24:13 [DEBUG] Telemetry OK: DEV-0001 pos=(39.8,35.4) dev=0.36
+2026-03-11 00:24:15 [DEBUG] Telemetry OK: DEV-0001 pos=(42.2,39.8) dev=0.19
+2026-03-11 00:24:17 [DEBUG] Telemetry OK: DEV-0001 pos=(44.6,44.2) dev=0.03
+2026-03-11 00:24:17 [DEBUG] Telemetry OK: DEV-0001 pos=(45.0,45.0) dev=0.00
+2026-03-11 00:24:17 [INFO] ARRIVED: DEV-0001 [TOYOTA] reached planned destination (45.0,45.0)
+2026-03-11 00:24:17 [ERROR] Error handling ('127.0.0.1', 7808): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-11 00:24:17 [INFO] Device DEV-0001 is now OFFLINE.
+2026-03-11 00:26:33 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 00:26:33 [INFO] Tracking Control Center started. Server listening on 127.0.0.1:9000
+2026-03-11 00:26:58 [INFO] Registered: DEV-0001  |  TOYOTA  |  GROUND_VEHICLE  |  start=(0.0,0.0)
+2026-03-11 00:27:13 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 00:27:13 [INFO] Plan assigned to DEV-0001  |  start=(0.0, 0.0)  waypoints=[(10.0,5.0) → (20.0,10.0) → (30.0,15.0)]  dest=(48.0, 23.0)  speed=5.0  interval=2.0s
+2026-03-11 00:27:20 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 00:27:20 [INFO] Plan assigned to DEV-0001  |  start=(0.0, 0.0)  waypoints=[(10.0,5.0) → (20.0,10.0) → (30.0,15.0)]  dest=(48.0, 23.0)  speed=5.0  interval=2.0s
+2026-03-11 00:27:24 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 00:27:24 [INFO] Plan assigned to DEV-0001  |  start=(0.0, 0.0)  waypoints=[(10.0,5.0) → (20.0,10.0) → (30.0,15.0)]  dest=(48.0, 34.0)  speed=5.0  interval=2.0s
+2026-03-11 00:27:29 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 00:27:29 [INFO] Plan assigned to DEV-0001  |  start=(0.0, 0.0)  waypoints=[(10.0,5.0) → (20.0,10.0) → (30.0,15.0)]  dest=(35.0, 34.0)  speed=5.0  interval=2.0s
+2026-03-11 00:27:37 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 00:27:37 [INFO] Plan assigned to DEV-0001  |  start=(0.0, 0.0)  waypoints=[(10.0,5.0) → (20.0,10.0) → (30.0,15.0)]  dest=(35.0, 50.0)  speed=5.0  interval=2.0s
+2026-03-11 00:27:56 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 00:27:56 [INFO] Plan assigned to DEV-0001  |  start=(0.0, 0.0)  waypoints=[(10.0,50.0) → (20.0,10.0) → (30.0,15.0)]  dest=(35.0, 50.0)  speed=5.0  interval=2.0s
+2026-03-11 00:28:37 [INFO] New connection from ('127.0.0.1', 8064)
+2026-03-11 00:28:37 [INFO] Device registered: DEV-0001 (TOYOTA / GROUND_VEHICLE)
+2026-03-11 00:28:37 [INFO] Travel plan sent to DEV-0001
+2026-03-11 00:28:39 [DEBUG] Telemetry OK: DEV-0001 pos=(2.1,10.3) dev=0.00
+2026-03-11 00:28:41 [DEBUG] Telemetry OK: DEV-0001 pos=(4.0,20.1) dev=0.00
+2026-03-11 00:28:43 [DEBUG] Telemetry OK: DEV-0001 pos=(6.0,29.9) dev=0.00
+2026-03-11 00:28:45 [DEBUG] Telemetry OK: DEV-0001 pos=(7.9,39.7) dev=0.00
+2026-03-11 00:28:47 [WARNING] DESTINATION CHANGE ALERT: DEV-0001 [TOYOTA] destination changed (35.0,50.0) -> (45.0,45.0)
+2026-03-11 00:28:47 [WARNING] DEVIATION ALERT: DEV-0001 is 6.56 units off-route at (15.3, 53.9)
+2026-03-11 00:28:49 [WARNING] DEVIATION ALERT: DEV-0001 is 14.67 units off-route at (24.9, 51.0)
+2026-03-11 00:28:51 [WARNING] DEVIATION ALERT: DEV-0001 is 10.85 units off-route at (34.4, 48.2)
+2026-03-11 00:28:53 [DEBUG] Telemetry OK: DEV-0001 pos=(44.0,45.3) dev=1.00
+2026-03-11 00:28:53 [DEBUG] Telemetry OK: DEV-0001 pos=(45.0,45.0) dev=0.00
+2026-03-11 00:28:53 [INFO] ARRIVED: DEV-0001 [TOYOTA] reached planned destination (45.0,45.0)
+2026-03-11 00:28:53 [ERROR] Error handling ('127.0.0.1', 8064): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-11 00:28:53 [INFO] Device DEV-0001 is now OFFLINE.
+2026-03-11 00:36:44 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 00:36:44 [INFO] Control Center started. TCP server on 127.0.0.1:9000
+2026-03-11 00:38:03 [INFO] Registered DEV-0001  |  TOYOTA  |  GROUND_VEHICLE  |  (0.0,2.0)
+2026-03-11 00:38:57 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 00:38:57 [INFO] Plan -> DEV-0001  start=(0.0, 2.0)  dest=(50.0, 60.0)  wps=3  speed=5.0
+2026-03-11 00:39:47 [INFO] All geofences cleared.
+2026-03-11 00:39:48 [INFO] All geofences cleared.
+2026-03-11 00:40:17 [INFO] New connection from ('127.0.0.1', 14380)
+2026-03-11 00:40:17 [INFO] Device registered: DEV-0001 (TOYOTA / GROUND_VEHICLE)
+2026-03-11 00:40:17 [INFO] Travel plan sent to DEV-0001
+2026-03-11 00:40:19 [DEBUG] OK DEV-0001 pos=(2.1,12.3) dev=0.00
+2026-03-11 00:40:21 [DEBUG] OK DEV-0001 pos=(4.2,22.1) dev=0.00
+2026-03-11 00:40:23 [DEBUG] OK DEV-0001 pos=(6.2,31.9) dev=0.00
+2026-03-11 00:40:25 [DEBUG] OK DEV-0001 pos=(8.3,41.6) dev=0.00
+2026-03-11 00:40:27 [WARNING] DESTINATION CHANGE: DEV-0001 [TOYOTA] (50.0,60.0) -> (45.0,45.0)
+2026-03-11 00:40:27 [WARNING] DEVIATION ALERT: DEV-0001 is 7.10 units off-route at (15.6,54.4)
+2026-03-11 00:40:29 [WARNING] DEVIATION ALERT: DEV-0001 is 15.00 units off-route at (25.1,51.3)
+2026-03-11 00:40:31 [WARNING] DEVIATION ALERT: DEV-0001 is 10.73 units off-route at (34.7,48.3)
+2026-03-11 00:40:33 [DEBUG] OK DEV-0001 pos=(44.2,45.3) dev=0.85
+2026-03-11 00:40:33 [ERROR] Error handling ('127.0.0.1', 14380): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-11 00:40:33 [INFO] Device DEV-0001 is now OFFLINE.
+2026-03-11 00:40:55 [INFO] Exported 73 telemetry records to C:/Users/bonav/OneDrive/Documents/telemetry_export.csv
+2026-03-11 00:43:44 [INFO] Exported 409 telemetry records to C:/Users/bonav/Documents/telemetry_export.csv
+2026-03-11 00:51:44 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 00:51:44 [INFO] Control Center started. TCP server on 127.0.0.1:9000
+2026-03-11 12:16:13 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 12:16:13 [INFO] Control Center started. TCP server on 127.0.0.1:9000
+2026-03-11 12:18:11 [INFO] Registered DEV-0001  |  TOYOTA  |  GROUND_VEHICLE  |  (0.0,0.0)
+2026-03-11 12:18:33 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 12:18:33 [INFO] Plan -> DEV-0001  start=(0.0, 0.0)  dest=(40.0, 30.0)  wps=3  speed=5.0
+2026-03-11 12:21:06 [INFO] New connection from ('127.0.0.1', 11094)
+2026-03-11 12:21:06 [INFO] Device registered: DEV-0001 (TOYOTA / GROUND_VEHICLE)
+2026-03-11 12:21:06 [INFO] Travel plan sent to DEV-0001
+2026-03-11 12:21:09 [DEBUG] OK DEV-0001 pos=(11.3,5.7) dev=0.00
+2026-03-11 12:21:11 [DEBUG] OK DEV-0001 pos=(22.2,11.1) dev=0.00
+2026-03-11 12:21:14 [DEBUG] OK DEV-0001 pos=(31.9,17.9) dev=0.00
+2026-03-11 12:21:16 [WARNING] DESTINATION CHANGE: DEV-0001 [TOYOTA] (40.0,30.0) -> (45.0,45.0)
+2026-03-11 12:21:16 [DEBUG] OK DEV-0001 pos=(38.8,28.4) dev=1.87
+2026-03-11 12:21:19 [DEBUG] OK DEV-0001 pos=(43.2,40.1) dev=0.55
+2026-03-11 12:21:20 [ERROR] Error handling ('127.0.0.1', 11094): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-11 12:21:20 [INFO] Device DEV-0001 is now OFFLINE.
+2026-03-11 12:36:54 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 12:36:54 [INFO] Control Center started. TCP server on 127.0.0.1:9000
+2026-03-11 12:37:02 [INFO] Satellite map loaded: Blue_Marble_2002.png
+2026-03-11 12:41:40 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 12:41:40 [INFO] Control Center started. TCP server on 127.0.0.1:9000
+2026-03-11 12:44:54 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 12:44:54 [INFO] Control Center started. TCP server on 127.0.0.1:9000
+2026-03-11 12:45:14 [INFO] Registered DEV-0001  |  TOYOTA  |  GROUND_VEHICLE  |  (0.0,0.0)
+2026-03-11 12:45:22 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 12:45:22 [INFO] Plan -> DEV-0001  start=(0.0, 0.0)  dest=(40.0, 31.0)  wps=3  speed=5.0
+2026-03-11 12:47:49 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 12:47:49 [INFO] Control Center started. TCP server on 127.0.0.1:9000
+2026-03-11 12:51:25 [WARNING] No device selected.
+2026-03-11 12:51:45 [INFO] Registered DEV-0001  |  TO  |  GROUND_VEHICLE  |  (0.0,0.0)
+2026-03-11 12:51:50 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 12:51:50 [INFO] Plan -> DEV-0001  start=(0.0, 0.0)  dest=(40.0, 128.0)  wps=3  speed=5.0
+2026-03-11 12:52:24 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 12:52:24 [INFO] Plan -> DEV-0001  start=(0.0, 0.0)  dest=(130.0, 128.0)  wps=3  speed=5.0
+2026-03-11 12:52:39 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 12:52:39 [INFO] Plan -> DEV-0001  start=(0.0, 0.0)  dest=(200.0, 128.0)  wps=3  speed=5.0
+2026-03-11 12:55:29 [INFO] New connection from ('127.0.0.1', 7498)
+2026-03-11 12:55:29 [INFO] Device registered: DEV-0001 (TOYOTA / GROUND_VEHICLE)
+2026-03-11 12:55:29 [INFO] Travel plan sent to DEV-0001
+2026-03-11 12:55:31 [DEBUG] OK DEV-0001 pos=(9.4,4.7) dev=0.00
+2026-03-11 12:55:33 [DEBUG] OK DEV-0001 pos=(18.0,9.0) dev=0.00
+2026-03-11 12:55:35 [DEBUG] OK DEV-0001 pos=(20.7,17.5) dev=0.00
+2026-03-11 12:55:37 [WARNING] DESTINATION CHANGE: DEV-0001 [TO] (200.0,128.0) -> (150.0,150.0)
+2026-03-11 12:55:37 [WARNING] DEVIATION ALERT: DEV-0001 is 4.86 units off-route at (26.9,32.3)
+2026-03-11 12:55:39 [WARNING] DEVIATION ALERT: DEV-0001 is 11.43 units off-route at (34.1,39.2)
+2026-03-11 12:55:41 [WARNING] DEVIATION ALERT: DEV-0001 is 18.00 units off-route at (41.4,46.1)
+2026-03-11 12:55:43 [WARNING] DEVIATION ALERT: DEV-0001 is 24.57 units off-route at (48.6,53.0)
+2026-03-11 12:55:45 [WARNING] DEVIATION ALERT: DEV-0001 is 31.14 units off-route at (55.8,59.9)
+2026-03-11 12:55:48 [WARNING] DEVIATION ALERT: DEV-0001 is 37.71 units off-route at (63.0,66.8)
+2026-03-11 12:55:49 [WARNING] DEVIATION ALERT: DEV-0001 is 44.29 units off-route at (70.3,73.7)
+2026-03-11 12:55:52 [WARNING] DEVIATION ALERT: DEV-0001 is 49.69 units off-route at (77.5,80.7)
+2026-03-11 12:55:54 [WARNING] DEVIATION ALERT: DEV-0001 is 44.73 units off-route at (84.7,87.6)
+2026-03-11 12:55:56 [WARNING] DEVIATION ALERT: DEV-0001 is 39.78 units off-route at (91.9,94.5)
+2026-03-11 12:55:58 [WARNING] DEVIATION ALERT: DEV-0001 is 34.83 units off-route at (99.2,101.4)
+2026-03-11 12:56:00 [WARNING] DEVIATION ALERT: DEV-0001 is 29.88 units off-route at (106.4,108.3)
+2026-03-11 12:56:02 [WARNING] DEVIATION ALERT: DEV-0001 is 24.93 units off-route at (113.6,115.2)
+2026-03-11 12:56:04 [WARNING] DEVIATION ALERT: DEV-0001 is 19.97 units off-route at (120.9,122.1)
+2026-03-11 12:56:06 [WARNING] DEVIATION ALERT: DEV-0001 is 15.02 units off-route at (128.1,129.0)
+2026-03-11 12:56:08 [WARNING] DEVIATION ALERT: DEV-0001 is 10.07 units off-route at (135.3,135.9)
+2026-03-11 12:56:10 [WARNING] DEVIATION ALERT: DEV-0001 is 5.12 units off-route at (142.5,142.9)
+2026-03-11 12:56:12 [DEBUG] OK DEV-0001 pos=(149.8,149.8) dev=0.16
+2026-03-11 12:56:12 [DEBUG] OK DEV-0001 pos=(150.0,150.0) dev=0.00
+2026-03-11 12:56:12 [INFO] ARRIVED: DEV-0001 [TO] reached (150.0,150.0)
+2026-03-11 12:56:12 [ERROR] Error handling ('127.0.0.1', 7498): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-11 12:56:12 [INFO] Device DEV-0001 is now OFFLINE.
+2026-03-11 12:56:16 [INFO] Alert sounds muted.
+2026-03-11 12:56:17 [INFO] Alert sounds unmuted.
+2026-03-11 12:56:40 [WARNING] No satellite image loaded. Click LOAD MAP first.
+2026-03-11 12:56:42 [WARNING] No satellite image loaded. Click LOAD MAP first.
+2026-03-11 12:59:02 [WARNING] Cannot push plan to DEV-0001: not connected.
+2026-03-11 12:59:02 [INFO] Plan -> DEV-0001  start=(0.0, 0.0)  dest=(199.0, 128.0)  wps=3  speed=5.0
+2026-03-11 13:03:18 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 13:03:18 [INFO] Control Center started. TCP server on 127.0.0.1:9000
+2026-03-11 13:07:24 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 13:07:24 [INFO] Control Center started. TCP server on 127.0.0.1:9000
+2026-03-11 13:12:15 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 13:12:15 [INFO] Control Center started. TCP server on 127.0.0.1:9000
+2026-03-11 13:16:21 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 13:16:21 [INFO] Control Center started. TCP server on 127.0.0.1:9000
+2026-03-11 13:20:27 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 13:20:27 [INFO] Control Center started. TCP server on 127.0.0.1:9000
+2026-03-11 13:23:28 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 13:23:28 [INFO] Control Center started. TCP server on 127.0.0.1:9000
+2026-03-11 13:25:32 [INFO] TCP server listening on 127.0.0.1:9000
+2026-03-11 13:25:32 [INFO] Control Center started. TCP server on 127.0.0.1:9000
